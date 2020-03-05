@@ -119,3 +119,11 @@ main img {
     font-weight: 700;
   }
 }
+
+@media screen and (max-height: 380px) {
+  h1 {
+    margin: 35px 0;
+    font-size: 25px;
+    font-weight: 700;
+  }
+}
